@@ -14,3 +14,4 @@
  1. The files *exercise4.c and exercise4.out* have the objective to rewrite the sentences and reduce the maximun of unecessary parentheses but keeping the same results.
  1. The files *exercise5.c and exercise5.out* you must to creat an algorithm wich return in the screen the ancestor value.
  1. The files *exercise6.c and exercise6.out* you must to calculate the area of a rectangle.
+ 1. The files *exercise7.c and exercise7.out* you must to calculate the total of days someone lived, considering 1 year equal 365 days and 1 month equal 30 days.
