@@ -13,3 +13,4 @@
  1. The files *exercise3.c and excercise3.out* are about 3 possible values and the objetive is to check if values return the same result. 
  1. The files *exercise4.c and exercise4.out* have the objective to rewrite the sentences and reduce the maximun of unecessary parentheses but keeping the same results.
  1. The files *exercise5.c and exercise5.out* you must to creat an algorithm wich return in the screen the ancestor value.
+ 1. The files *exercise6.c and exercise6.out* you must to calculate the area of a rectangle.
