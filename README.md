@@ -18,4 +18,5 @@
  1. The files *exercise8.c and exercise8.out* you must to get the total of electors and calculate the percent of white, valid and null votes.
  1. The files *exercise9.c and exercise9.out* you must to get the actual wage and the readjustment percent to get the new wage value.
  1. The files *exercise10.c and exercise10.out* you have to calculate the final cost of a car, considering the fixed distributor and tax percent.
- 1. The files *exercise11.c and exercise11.out* you have to calculate the wage of a car seller with commission. 
+ 1. The files *exercise11.c and exercise11.out* you have to calculate the wage of a car seller with commission.
+ 1. The files *exercise12.c and exercise12.out* you have to convert a value in farenheit to celsius.
