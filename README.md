@@ -16,3 +16,4 @@
  1. The files *exercise6.c and exercise6.out* you must to calculate the area of a rectangle.
  1. The files *exercise7.c and exercise7.out* you must to calculate the total of days someone lived, considering 1 year equal 365 days and 1 month equal 30 days.
  1. The files *exercise8.c and exercise8.out* you must to get the total of electors and calculate the percent of white, valid and null votes.
+ 1. The files *exercise9.c and exercise9.out* you must to get the actual wage and the readjustment percent to get the new wage value.
