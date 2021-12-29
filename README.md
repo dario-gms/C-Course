@@ -20,3 +20,4 @@
  1. The files *exercise10.c and exercise10.out* you have to calculate the final cost of a car, considering the fixed distributor and tax percent.
  1. The files *exercise11.c and exercise11.out* you have to calculate the wage of a car seller with commission.
  1. The files *exercise12.c and exercise12.out* you have to convert a value in farenheit to celsius.
+ 1. The files *exercise13.c and exercise13.out* you have to get 3 values and calculate the weighted average.
