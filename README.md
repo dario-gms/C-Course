@@ -22,3 +22,4 @@
  1. The files *exercise12.c and exercise12.out* you have to convert a value in farenheit to celsius.
  1. The files *exercise13.c and exercise13.out* you have to get 3 values and calculate the weighted average.
  1. The files *exercise14.c and exercise14.out* you have to check if a value is more bigger then 10 and print a message if it is or not.
+ 1. The files *exercise15.c and exercise15.out* you need to check if a value is positive or negative and print the result.
