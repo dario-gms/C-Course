@@ -23,3 +23,4 @@
  1. The files *exercise13.c and exercise13.out* you have to get 3 values and calculate the weighted average.
  1. The files *exercise14.c and exercise14.out* you have to check if a value is more bigger then 10 and print a message if it is or not.
  1. The files *exercise15.c and exercise15.out* you need to check if a value is positive or negative and print the result.
+ 1. The files *exercise16.c and exercise16.out* you need to change the value of a product if the amount is less or more then 12.
