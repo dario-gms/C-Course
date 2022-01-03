@@ -25,3 +25,4 @@
  1. The files *exercise15.c and exercise15.out* you need to check if a value is positive or negative and print the result.
  1. The files *exercise16.c and exercise16.out* you need to change the value of a product if the amount is less or more then 12.
  1. The files *exercise17.c and exercise17.out* you need to calculate the media of two numbers and say if it pass or fail.
+ 1. The files *exercise18.c and exercise18.out* you need to calculate the age and say if you able to vote or no. 
