@@ -13,9 +13,7 @@ int main () {
 
   printf("valor de b é %d\n\n", b);
 
-  b = 5;
-
   printf("valor de a %d e valor de b %d\n", a, b);
 
-  // Na primeira impressão de b o valor será 5. Na impressão de A e B os valores serão 10 e 5.
+  // Na primeira impressão de b o valor será 5. Na impressão de A e B os valores serão 10 e 20.
 }
