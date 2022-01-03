@@ -28,3 +28,4 @@
  1. The files *exercise18.c and exercise18.out* you need to calculate the age and say if you able to vote or no. 
  1. The files *exercise19.c and exercise19.out* you need to check if a value is bigger than other and print wich is bigger.
  1. The files *exercise20.c and exercise20.out* you must to get two values and print these values in an ascending order.
+ 1. The files *exercise21.c and exercise21.out* you must to get the total of hours of duration of a game.
