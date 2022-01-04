@@ -29,3 +29,4 @@
  1. The files *exercise19.c and exercise19.out* you need to check if a value is bigger than other and print wich is bigger.
  1. The files *exercise20.c and exercise20.out* you must to get two values and print these values in an ascending order.
  1. The files *exercise21.c and exercise21.out* you must to get the total of hours of duration of a game.
+ 1. The files *exercise22.c and exercise22.out* you must to calculate the wage and extra hour of work and get the wage value with the bonus.
