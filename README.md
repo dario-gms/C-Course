@@ -32,3 +32,4 @@
  1. The files *exercise22.c and exercise22.out* you must to calculate the wage and extra hour of work and get the wage value with the bonus.
  1. The files *exercise23.c and exercise23.out* you must to get the height of an especif person and calculate the ideal weight. Also you must to check some code errors and specify.
  1. The files *exercise24.c and exercise24.out* you must to check the comission value and get result of the wage with correct percentage.
+ 1. The files *exercise25.c and exercise25.out* you have to get the bank balance of an account, calculate the debit and credit then show if the balance is positive or negative.
