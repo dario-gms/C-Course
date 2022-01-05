@@ -34,3 +34,4 @@
  1. The files *exercise24.c and exercise24.out* you must to check the comission value and get result of the wage with correct percentage.
  1. The files *exercise25.c and exercise25.out* you have to get the bank balance of an account, calculate the debit and credit then show if the balance is positive or negative.
  1. The files *exercise26.c and exercise26.out* you have to get the value avaiable in stock to know if is necessary to buy or not more products.
+ 1. The files *exercise27.c and exercise27.out* you have to read a value, check if it's 0, positive or negative and print the result using nested selection.
