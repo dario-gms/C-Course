@@ -37,3 +37,4 @@
  1. The files *exercise27.c and exercise27.out* you have to read a value, check if it's 0, positive or negative and print the result using nested selection.
  1. The files *exercise28.c and exercise28.out* you have to read three values, check the highest and print the highest value.
  1. The files *exercise29.c and exercise29.out* you have to read three values, check the 2 highest and print the total sum.
+ 1. The files *exercise30.c and exercise30.out* you have to get 3 values and 
