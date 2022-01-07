@@ -26,4 +26,6 @@ int main(){
       printf("O time %s fez %d gols e o time %s fez %d gols o time %s foi o campeão.\n", time1, gol_time1, time2, gol_time2, time2);
     }
   }
+  //Resultado
+  //Programa funcionou corretamente exibindo o campeão para o time que fez mais gols e empate caso os valores inseridos sejam iguais.
 }
