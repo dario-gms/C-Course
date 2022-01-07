@@ -7,7 +7,7 @@
 > These files are from the knowledge obtained learning the first step of C (*C I*) in Alura's course. This is a guessing game in which the user chooses a level of difficulty and depending on the choice, will have a specific amount of attempts to win or lose. The project was all done in **C** and has basic programming logic elements, with elements like *if, else, for, while* and others.
 
 - Exercises
-- Site with [exercises](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf)
+- Site with [exercises.](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf)
 
  1. files *exercise1.c and exercise1.out*. **This first exercise is about swap 2 variable values.**
  1. There are 6 shorts exercises inside starting in exercise2-a to exercise2-f. **It's about print some variables that are changed this values.**
@@ -41,3 +41,4 @@
  1. The files *exercise30.c and exercise30.out* you need to get 3 values and print the values in ascending order.
  1. The files *exercise31.c and exercise31.out* you need to get 3 values and say if it's a tringle or not.
  1. The files *exercise32.c and exercise32.out* you need to read the name of 2 teams and the total of goals and say the name of winner team.
+ 1. The files *exercise33.c and exercise33.out* you need to check if a number is higher then other or if is equal.
