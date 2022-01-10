@@ -37,5 +37,12 @@ int main() {
     }
   }
   //Resultado
-  //Programa funcionou corretamente exibindo a reposta para os 3 tipos de caso.
+  //Faça o seguinte teste de mesa:
+  //   Variáveis 
+  //  X | Y | Z | Resposta
+  //  3 | 2 |11 | resposta b
+  // 150| 3 |455| resposta c
+  //  7 |-1 |-2 | resposta a
+  // -2 | 5 |-5 | resposta a
+  // 50 | 3 |155| resposta c
 }
