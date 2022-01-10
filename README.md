@@ -42,3 +42,4 @@
  1. The files *exercise31.c and exercise31.out* you need to get 3 values and say if it's a tringle or not.
  1. The files *exercise32.c and exercise32.out* you need to read the name of 2 teams and the total of goals and say the name of winner team.
  1. The files *exercise33.c and exercise33.out* you need to check if a number is higher then other or if is equal.
+ 1. The files *exercise34.c and exercise34.out* you need to check if a number is higher or lower of 0, 100 and print a respective response.
