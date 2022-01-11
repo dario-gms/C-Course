@@ -44,3 +44,5 @@
  1. The files *exercise33.c and exercise33.out* you need to check if a number is higher then other or if is equal.
  1. The files *exercise34.c and exercise34.out* you need to check if a number is higher or lower of 0, 100 and print a respective response.
  1. The files *exercise35.c and exercise35.out* you must to say the correct value of selected fuel with the selected amount.
+ 1. The files *exercise36.c and exercise36.out* you must to get the age of 4 people and calculate some results.
+ 1. The files *exercise37.c and exercise37.out* you must to read the weight of some fruits and calculate the price with discount of a certain amount.
