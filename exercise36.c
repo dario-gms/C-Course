@@ -40,5 +40,7 @@ int main() {
       printf("A soma da idade do homem mais velho com a mulher mais nova é de %d e o produto da idade do homem mais novo com a mulher mais velha é de %d.\n", soma_idade, produto_idade);
     } 
   }
+  //Resultado
+  //Programa testado e funcionando corretamente exibindo a soma da idade do homem mais velho com a mulher mais nova e o produto do homem mais novo com a mulher mais velha.
 
 }
