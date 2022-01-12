@@ -47,3 +47,4 @@
  1. The files *exercise36.c and exercise36.out* you must to get the age of 4 people and calculate some results.
  1. The files *exercise37.c and exercise37.out* you must to read the weight of some fruits and calculate the price with discount of a certain amount.
  1. The files *exercise38.c and exercise38.out* you must to check if an acess code and password are valid and permit acess if it's true and deny if it's false.
+ 1. The files *exercise39.c and exercise39.out* you must to check if it's true or false using relational operators.
