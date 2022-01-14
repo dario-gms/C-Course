@@ -71,8 +71,9 @@
  ## Repeat Structure: Repeat and While
  
  44. The files *[exercise44.c](https://github.com/dario-gms/C-Course/blob/main/exercise44.c) and [exercise44.out](https://github.com/dario-gms/C-Course/blob/main/exercise44.out)* you have to read 2 values and repeat the second value. If the second value is equal 0, repeat the code. If second value isn't 0, print the division result of number 1 and number 2.
- 45. The files *[exercise45.c](https://github.com/dario-gms/C-Course/blob/main/exercise45.c) and [exercise45.out](https://github.com/dario-gms/C-Course/blob/main/exercise45.out)* you need to read 2 values and while the second value it goes 0, repeat the message asking for number 2 Then show the division of both number 1 and number2.
+ 45. The files *[exercise45.c](https://github.com/dario-gms/C-Course/blob/main/exercise45.c) and [exercise45.out](https://github.com/dario-gms/C-Course/blob/main/exercise45.out)* you need to read 2 values and while the second value goes 0, repeat the message asking for number 2 Then show the division of both number 1 and number 2.
  46. The files *[exercise46.c](https://github.com/dario-gms/C-Course/blob/main/exercise46.c) and [exercise46.out](https://github.com/dario-gms/C-Course/blob/main/exercise46.out)* you need to read 2 values and repeat the second value request if it's equal 0, also show messagem Invalid Number!. If the second value is different of 0, print the division of number 1 and number 2. 
+ 47. The files *[exercise47.c](https://github.com/dario-gms/C-Course/blob/main/exercise47.c) and [exercise47.out](https://github.com/dario-gms/C-Course/blob/main/exercise47.out)* you need to read 2 values and while the second value goes 0, repeat the message asking for number 2, show the messagem 'invalid number' then print the division of both number 1 and number 2.
   
 
 
