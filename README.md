@@ -70,7 +70,7 @@
  
  ## Repeat Structure: Repeat and While
  
- 44. 
+ 44. The files *[exercise44.c](https://github.com/dario-gms/C-Course/blob/main/exercise44.c) and [exercise44.out](https://github.com/dario-gms/C-Course/blob/main/exercise44.out)* you have to read 2 values and repeat the second value. If the second value is equal 0, repeat the code. If second value isn't 0, print the division result of number 1 and number 2.
   
 
 
