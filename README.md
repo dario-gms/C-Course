@@ -77,7 +77,7 @@
  48. The files *[exercise48.c](https://github.com/dario-gms/C-Course/blob/main/exercise48.c) and [exercise48.out](https://github.com/dario-gms/C-Course/blob/main/exercise48.out)* you need to read 2 values and repeat the read if any value is lower than 0 or higher than 10, then calculate the media.
  49. The files *[exercise49.c](https://github.com/dario-gms/C-Course/blob/main/exercise49.c) and [exercise49.out](https://github.com/dario-gms/C-Course/blob/main/exercise49.out)* you need to read 2 values and repeat the read if any value is lower than 0 or higher than 10, then calculate the media. At the end, ask if user need to calculate a new value. 
  
- ##Repeat Structure: For
+ ## Repeat Structure: For
  
  50. 
   
