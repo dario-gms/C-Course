@@ -79,7 +79,8 @@
  
  ## Repeat Structure: For
  
- 50. 
+ 50. The files *[exercise50.c](https://github.com/dario-gms/C-Course/blob/main/exercise50.c) and [exercise50.out](https://github.com/dario-gms/C-Course/blob/main/exercise50.out)* you need to print the numbers 1 to 10 in growing order.
+ 51. The files *[exercise51.c](https://github.com/dario-gms/C-Course/blob/main/exercise51.c) and [exercise51.out](https://github.com/dario-gms/C-Course/blob/main/exercise51.out)* you need to print the numbers 1 to 10 in descending order.
   
 
 
