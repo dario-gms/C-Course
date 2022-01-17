@@ -74,7 +74,12 @@
  45. The files *[exercise45.c](https://github.com/dario-gms/C-Course/blob/main/exercise45.c) and [exercise45.out](https://github.com/dario-gms/C-Course/blob/main/exercise45.out)* you need to read 2 values and while the second value goes 0, repeat the message asking for number 2 Then show the division of both number 1 and number 2.
  46. The files *[exercise46.c](https://github.com/dario-gms/C-Course/blob/main/exercise46.c) and [exercise46.out](https://github.com/dario-gms/C-Course/blob/main/exercise46.out)* you need to read 2 values and repeat the second value request if it's equal 0, also show messagem Invalid Number!. If the second value is different of 0, print the division of number 1 and number 2. 
  47. The files *[exercise47.c](https://github.com/dario-gms/C-Course/blob/main/exercise47.c) and [exercise47.out](https://github.com/dario-gms/C-Course/blob/main/exercise47.out)* you need to read 2 values and while the second value goes 0, repeat the message asking for number 2, show the messagem 'invalid number' then print the division of both number 1 and number 2.
- 48. The files *[exercise48.c](https://github.com/dario-gms/C-Course/blob/main/exercise48.c) and [exercise48.out](https://github.com/dario-gms/C-Course/blob/main/exercise48.out)* you need to read 2 notes and repeat the read if the note is lower than 0 or higher than 10, then calculate the media.
+ 48. The files *[exercise48.c](https://github.com/dario-gms/C-Course/blob/main/exercise48.c) and [exercise48.out](https://github.com/dario-gms/C-Course/blob/main/exercise48.out)* you need to read 2 values and repeat the read if any value is lower than 0 or higher than 10, then calculate the media.
+ 49. The files *[exercise49.c](https://github.com/dario-gms/C-Course/blob/main/exercise49.c) and [exercise49.out](https://github.com/dario-gms/C-Course/blob/main/exercise49.out)* you need to read 2 values and repeat the read if any value is lower than 0 or higher than 10, then calculate the media. At the end, ask if user need to calculate a new value. 
+ 
+ ##Repeat Structure: For
+ 
+ 50. 
   
 
 
