@@ -83,6 +83,7 @@
  51. The files *[exercise51.c](https://github.com/dario-gms/C-Course/blob/main/exercise51.c) and [exercise51.out](https://github.com/dario-gms/C-Course/blob/main/exercise51.out)* you need to print the numbers 1 to 10 in descending order.
  52. The files *[exercise52.c](https://github.com/dario-gms/C-Course/blob/main/exercise52.c) and [exercise52.out](https://github.com/dario-gms/C-Course/blob/main/exercise52.out)* you must to to print the first 10 whole numbers after 100.
  53. The files *[exercise53.c](https://github.com/dario-gms/C-Course/blob/main/exercise53.c) and [exercise53.out](https://github.com/dario-gms/C-Course/blob/main/exercise53.out)* you must to read a number and print every whole number between 1 and 'number'.
+ 54. The files *[exercise54.c](https://github.com/dario-gms/C-Course/blob/main/exercise54.c) and [exercise54.out](https://github.com/dario-gms/C-Course/blob/main/exercise54.out)* you must to read a number and repeat the process if the number is not higher than 0. Also you have to print 1 to 'number'.
   
 
 
