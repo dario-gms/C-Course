@@ -89,7 +89,8 @@
  
  ## Counters and Accumulators
  
- 57. The files *[exercise57.c](https://github.com/dario-gms/C-Course/blob/main/exercise57.c) and [exercise57.out](https://github.com/dario-gms/C-Course/blob/main/exercise57.out)* have to print the numbers 1 to 10 in growing order using **repeat** and **counter.**
+ 57. The files *[exercise57.c](https://github.com/dario-gms/C-Course/blob/main/exercise57.c) and [exercise57.out](https://github.com/dario-gms/C-Course/blob/main/exercise57.out)* you have to print the numbers 1 to 10 in growing order using **repeat** and **counter.**
+ 58. The files *[exercise58.c](https://github.com/dario-gms/C-Course/blob/main/exercise58.c) and [exercise58.out](https://github.com/dario-gms/C-Course/blob/main/exercise58.out)* you have to print the numbers 1 to 10 in descending order using while and counter.
 
 
  
