@@ -84,8 +84,12 @@
  52. The files *[exercise52.c](https://github.com/dario-gms/C-Course/blob/main/exercise52.c) and [exercise52.out](https://github.com/dario-gms/C-Course/blob/main/exercise52.out)* you must to to print the first 10 whole numbers after 100.
  53. The files *[exercise53.c](https://github.com/dario-gms/C-Course/blob/main/exercise53.c) and [exercise53.out](https://github.com/dario-gms/C-Course/blob/main/exercise53.out)* you must to read a number and print every whole number between 1 and 'number'.
  54. The files *[exercise54.c](https://github.com/dario-gms/C-Course/blob/main/exercise54.c) and [exercise54.out](https://github.com/dario-gms/C-Course/blob/main/exercise54.out)* you must to read a number and repeat the process if the number is not higher than 0. Also you have to print 1 to 'number'.
- 55. The files *[exercise55.c](https://github.com/dario-gms/C-Course/blob/main/exercise55.c) and [exercise55.out](https://github.com/dario-gms/C-Course/blob/main/exercise55.out)* you must to make multiplication table of number 8.
-  
+ 55. The files *[exercise55.c](https://github.com/dario-gms/C-Course/blob/main/exercise55.c) and [exercise55.out](https://github.com/dario-gms/C-Course/blob/main/exercise55.out)* you must to creat a multiplication table of number 8.
+ 56. The files *[exercise56.c](https://github.com/dario-gms/C-Course/blob/main/exercise56.c) and [exercise56.out](https://github.com/dario-gms/C-Course/blob/main/exercise56.out)* you must to create a multiplication table of an user inserted number.
+ 
+ ## Counters and Accumulators
+ 
+ 57. The files *[exercise57.c](https://github.com/dario-gms/C-Course/blob/main/exercise57.c) and [exercise57.out](https://github.com/dario-gms/C-Course/blob/main/exercise57.out)* have to print the numbers 1 to 10 in growing order using **repeat** and **counter.**
 
 
  
