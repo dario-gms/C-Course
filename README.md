@@ -93,6 +93,5 @@
  58. The files *[exercise58.c](https://github.com/dario-gms/C-Course/blob/main/exercise58.c) and [exercise58.out](https://github.com/dario-gms/C-Course/blob/main/exercise58.out)* you have to print the numbers 1 to 10 in descending order using while and counter.
  59. The files *[exercise59.c](https://github.com/dario-gms/C-Course/blob/main/exercise59.c) and [exercise59.out](https://github.com/dario-gms/C-Course/blob/main/exercise59.out)* you have to read 10 numbers and say the total of negatives numbers.
  60. The files *[exercise60.c](https://github.com/dario-gms/C-Course/blob/main/exercise60.c) and [exercise60.out](https://github.com/dario-gms/C-Course/blob/main/exercise60.out)* you have to read 10 numbers and say how many is between 10 and 20 and how many is out of this interval.
-
-
+ 61. The files *[exercise61.c](https://github.com/dario-gms/C-Course/blob/main/exercise61.c) and [exercise61.out](https://github.com/dario-gms/C-Course/blob/main/exercise61.out)* you have to read 10 numbers and calculate the media.
  
