@@ -91,6 +91,7 @@
  
  57. The files *[exercise57.c](https://github.com/dario-gms/C-Course/blob/main/exercise57.c) and [exercise57.out](https://github.com/dario-gms/C-Course/blob/main/exercise57.out)* you have to print the numbers 1 to 10 in growing order using **repeat** and **counter.**
  58. The files *[exercise58.c](https://github.com/dario-gms/C-Course/blob/main/exercise58.c) and [exercise58.out](https://github.com/dario-gms/C-Course/blob/main/exercise58.out)* you have to print the numbers 1 to 10 in descending order using while and counter.
+ 59. The files *[exercise59.c](https://github.com/dario-gms/C-Course/blob/main/exercise59.c) and [exercise59.out](https://github.com/dario-gms/C-Course/blob/main/exercise59.out)* you have to read 10 numbers and say the total of negatives numbers.
 
 
  
