@@ -94,4 +94,5 @@
  59. The files *[exercise59.c](https://github.com/dario-gms/C-Course/blob/main/exercise59.c) and [exercise59.out](https://github.com/dario-gms/C-Course/blob/main/exercise59.out)* you have to read 10 numbers and say the total of negatives numbers.
  60. The files *[exercise60.c](https://github.com/dario-gms/C-Course/blob/main/exercise60.c) and [exercise60.out](https://github.com/dario-gms/C-Course/blob/main/exercise60.out)* you have to read 10 numbers and say how many is between 10 and 20 and how many is out of this interval.
  61. The files *[exercise61.c](https://github.com/dario-gms/C-Course/blob/main/exercise61.c) and [exercise61.out](https://github.com/dario-gms/C-Course/blob/main/exercise61.out)* you have to read 10 numbers and calculate the media.
+ 62. The files *[exercise62](https://github.com/dario-gms/C-Course/blob/main/exercise62.c) and [exercise62.out](https://github.com/dario-gms/C-Course/blob/main/exercise62.out)* you need to read the total numbers of students of a class and the note of each student, then you have to print the media of these students.
  
