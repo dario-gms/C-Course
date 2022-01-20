@@ -97,4 +97,5 @@
  62. The files *[exercise62.c](https://github.com/dario-gms/C-Course/blob/main/exercise62.c) and [exercise62.out](https://github.com/dario-gms/C-Course/blob/main/exercise62.out)* you need to read the total numbers of students of a class and the note of each student, then you have to print the media of these students.
  63. The files *[exercise63.c](https://github.com/dario-gms/C-Course/blob/main/exercise63.c) and [exercise63.out](https://github.com/dario-gms/C-Course/blob/main/exercise63.out)* you need to read 10 values and calculate the sum of all.
  64. The files *[exercise64.c](https://github.com/dario-gms/C-Course/blob/main/exercise64.c) and [exercise64.out](https://github.com/dario-gms/C-Course/blob/main/exercise64.out)* you need to read 10 values then sum all numbers bellow 40. 
+ 65. The files *[exercise65.c](https://github.com/dario-gms/C-Course/blob/main/exercise65.c) and [exercise65.out](https://github.com/dario-gms/C-Course/blob/main/exercise65.out)* you need to read 2 values then calculate the sum of whole numbers including the first and second inserted numbers.
  
