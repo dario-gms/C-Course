@@ -95,5 +95,6 @@
  60. The files *[exercise60.c](https://github.com/dario-gms/C-Course/blob/main/exercise60.c) and [exercise60.out](https://github.com/dario-gms/C-Course/blob/main/exercise60.out)* you have to read 10 numbers and say how many is between 10 and 20 and how many is out of this interval.
  61. The files *[exercise61.c](https://github.com/dario-gms/C-Course/blob/main/exercise61.c) and [exercise61.out](https://github.com/dario-gms/C-Course/blob/main/exercise61.out)* you have to read 10 numbers and calculate the media.
  62. The files *[exercise62.c](https://github.com/dario-gms/C-Course/blob/main/exercise62.c) and [exercise62.out](https://github.com/dario-gms/C-Course/blob/main/exercise62.out)* you need to read the total numbers of students of a class and the note of each student, then you have to print the media of these students.
- 63. The files *[exercise63.c](https://github.com/dario-gms/C-Course/blob/main/exercise63.c) and [exercise63.out](https://github.com/dario-gms/C-Course/blob/main/exercise63.out)* you need to read 10 values and calculate the sum of all. 
+ 63. The files *[exercise63.c](https://github.com/dario-gms/C-Course/blob/main/exercise63.c) and [exercise63.out](https://github.com/dario-gms/C-Course/blob/main/exercise63.out)* you need to read 10 values and calculate the sum of all.
+ 64. The files *[exercise64.c](https://github.com/dario-gms/C-Course/blob/main/exercise64.c) and [exercise64.out](https://github.com/dario-gms/C-Course/blob/main/exercise64.out)* you need to read 10 values then sum all numbers bellow 40. 
  
