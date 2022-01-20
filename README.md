@@ -99,4 +99,5 @@
  64. The files *[exercise64.c](https://github.com/dario-gms/C-Course/blob/main/exercise64.c) and [exercise64.out](https://github.com/dario-gms/C-Course/blob/main/exercise64.out)* you need to read 10 values then sum all numbers bellow 40. 
  65. The files *[exercise65.c](https://github.com/dario-gms/C-Course/blob/main/exercise65.c) and [exercise65.out](https://github.com/dario-gms/C-Course/blob/main/exercise65.out)* you need to read 2 values then calculate the sum of whole numbers including the first and second intered numbers.
  66. The files *[exercise66.c](https://github.com/dario-gms/C-Course/blob/main/exercise66.c) and [exercise66.out](https://github.com/dario-gms/C-Course/blob/main/exercise66.out)* you need to read 2 values then calculate the sum of whole numbers regardless of the intered order.
+ 67. The files *[exercise67.c](https://github.com/dario-gms/C-Course/blob/main/exercise67.c) and [exercise67.out](https://github.com/dario-gms/C-Course/blob/main/exercise67.out)* you must to calculate the media of the sum of all whole numbers between 15 and 100.
  
