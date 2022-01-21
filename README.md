@@ -106,4 +106,5 @@
  ## Bigger and Smaller
  
  70. The files *[exercise70.c](https://github.com/dario-gms/C-Course/blob/main/exercise70.c) and [exercise70.out](https://github.com/dario-gms/C-Course/blob/main/exercise70.out)* you must to read 100 values and say wich was the biggest and the smallest.
+ 71. The files *[exercise71.c](https://github.com/dario-gms/C-Course/blob/main/exercise71.c) and [exercise71.out](https://github.com/dario-gms/C-Course/blob/main/exercise71.out)* you must to read a quantity and read values based on the quantity of numbers inserted, then show the bigger number and the average of all numbers.
  
