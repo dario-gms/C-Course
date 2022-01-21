@@ -20,7 +20,7 @@ int main (){
 
  media = (n1 * 2 / 10) + (n2 * 3 / 10) + (n3 * 5 / 10);
 
- printf("A média final das três notas informadas é de %1.f.\n", media);
+ printf("A média final das três notas informadas é de %.1f.\n", media);
  //Resultado
  //Inserindo as notas 3, 4, 8 a média final foi de 5.8. Pesquisei uma calculdadora de média ponderada e o resultado foi igual em todos os testes.
 } 
