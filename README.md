@@ -103,3 +103,7 @@
  68. The files *[exercise68.c](https://github.com/dario-gms/C-Course/blob/main/exercise68.c) and [exercise68.out](https://github.com/dario-gms/C-Course/blob/main/exercise68.out)* you must to read the total amount of products in stock and each product value, then calculate the total value and the average value.
  69. The files *[exercise69.c](https://github.com/dario-gms/C-Course/blob/main/exercise69.c) and [exercise69.out](https://github.com/dario-gms/C-Course/blob/main/exercise69.out)* you must to read the value of a product and ask if user want to add another, then show the total value of products and average value.
  
+ ## Bigger and Smaller
+ 
+ 70. The files *[exercise70.c](https://github.com/dario-gms/C-Course/blob/main/exercise70.c) and [exercise70.out](https://github.com/dario-gms/C-Course/blob/main/exercise70.out)* you must to read 100 values and say wich was the biggest and the smallest.
+ 
