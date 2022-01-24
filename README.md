@@ -107,5 +107,6 @@
  
  70. The files *[exercise70.c](https://github.com/dario-gms/C-Course/blob/main/exercise70.c) and [exercise70.out](https://github.com/dario-gms/C-Course/blob/main/exercise70.out)* you must to read 100 values and say wich was the biggest and the smallest.
  71. The files *[exercise71.c](https://github.com/dario-gms/C-Course/blob/main/exercise71.c) and [exercise71.out](https://github.com/dario-gms/C-Course/blob/main/exercise71.out)* you must to read a quantity and read values based on the quantity of numbers inserted, then show the bigger number and the average of all numbers.
- 72. The files *[exercise72.c](https://github.com/dario-gms/C-Course/blob/main/exercise72.c) and [exercise72.out](https://github.com/dario-gms/C-Course/blob/main/exercise72.out)* have to read 15 products code and values, show the biggest value and the average value of all inserted products.
+ 72. The files *[exercise72.c](https://github.com/dario-gms/C-Course/blob/main/exercise72.c) and [exercise72.out](https://github.com/dario-gms/C-Course/blob/main/exercise72.out)* you have to read 15 products code and values, show the biggest value and the average value of all inserted products.
+ 73. The files *[exercise73.c](https://github.com/dario-gms/C-Course/blob/main/exercise73.c) and [exercise73.out](https://github.com/dario-gms/C-Course/blob/main/exercise73.out)* you have to read the wage, the total of sons and stop if the inserted wage goes negative, then show the average wage, average sons for people, the biggest wage and the percentage of people with wage bellow 150.
  
