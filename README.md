@@ -110,3 +110,7 @@
  72. The files *[exercise72.c](https://github.com/dario-gms/C-Course/blob/main/exercise72.c) and [exercise72.out](https://github.com/dario-gms/C-Course/blob/main/exercise72.out)* you have to read 15 products code and values, show the biggest value and the average value of all inserted products.
  73. The files *[exercise73.c](https://github.com/dario-gms/C-Course/blob/main/exercise73.c) and [exercise73.out](https://github.com/dario-gms/C-Course/blob/main/exercise73.out)* you have to read the wage, the total of sons and stop if the inserted wage goes negative, then show the average wage, average sons for people, the biggest wage and the percentage of people with wage bellow 150.
  
+ ## Nested Repeat
+ 
+ 74. The files *[exercise74.c](https://github.com/dario-gms/C-Course/blob/main/exercise74.c) and [exercise74.out](https://github.com/dario-gms/C-Course/blob/main/exercise74.out)* you have to generate multiplication table from 1 to 10.
+ 
