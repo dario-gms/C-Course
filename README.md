@@ -114,4 +114,5 @@
  
  74. The files *[exercise74.c](https://github.com/dario-gms/C-Course/blob/main/exercise74.c) and [exercise74.out](https://github.com/dario-gms/C-Course/blob/main/exercise74.out)* you have to generate multiplication table from 1 to 10.
  75. The files *[exercise75.c](https://github.com/dario-gms/C-Course/blob/main/exercise75.c) and [exercise75.out](https://github.com/dario-gms/C-Course/blob/main/exercise75.out)* you have to print an especific sequence of numbers.
+ 76. The files *[exercise76.c](https://github.com/dario-gms/C-Course/blob/main/exercise76.c) and [exercise76.out](https://github.com/dario-gms/C-Course/blob/main/exercise76.out)* you have to make a rectangle.
  
