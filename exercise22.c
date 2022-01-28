@@ -10,18 +10,24 @@ int main() {
   int totalhoras = 0;
   double valorhoraextra = 0;
 
-  printf("Informe o valor do salário do funcionário:\n");
-  scanf("%lf", &salario);
+  printf("Informe o valor por hora trabalhada:\n");
+  scanf("%lf", &salariohora);
   printf("Informe a quantidade horas trabalhadas:\n");
   scanf("%d", &horastrabalhadas);
-  
-  salariohora = salario / jornada;
-  totalhoras = horastrabalhadas - jornada;
-  valorhoraextra = (salariohora * 1.5) * totalhoras;
-  salario = salario + valorhoraextra;
-  printf("O valor do salário somado com as horas extras é de R$%.2f.\n", salario);
+
+  if (horastrabalhadas > 160) {
+    totalhoras = horastrabalhadas - jornada;
+    valorhoraextra = salariohora * 0.50 + salariohora;
+    valorhoraextra = totalhoras * valorhoraextra;
+    salario = jornada * salariohora;
+    salario = salario + valorhoraextra;
+    printf("O salário total deste funcionário é de R$ %.2f.\n", salario);
+  } else {
+    salario = horastrabalhadas * salariohora;
+    printf("O salário total deste funcionário é de R$ %.2f.\n", salario);
+  }
 
   //Resultado
-  //Utilizando uma calculadora de hora extra e realizando calculo de mesa foi possível confirmar que o programa funciona corretamente.
+  //Programa funcionando corretamente exibindo o resultado conforme o a quantidade e horas trabalhadas.
 
 }
