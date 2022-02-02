@@ -15,7 +15,7 @@ int main() {
   printf("Informe a quantidade mínima de produtos para estoque: \n");
   scanf("%d", &quant_min);
   
-  quant_med = (quant_max - quant_min) / 2;
+  quant_med = (quant_max + quant_min) / 2;
   if(quant_atual >= quant_med) {
     printf("A quantidade atual de produtos é %d e a quantidade média recomendável é de %d, no momento não é necessário comprar mais produtos.\n", quant_atual, quant_med);
   } else {
