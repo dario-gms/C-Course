@@ -13,5 +13,6 @@
 
 - About *[forca.c](https://github.com/dario-gms/C-Course/blob/main/forca.c)*.
 > This project was made during the course of C in Alura's platform and it is a hangman game. It was done with the languague **C** and intermediate programming, with repeat structures, functions and pointer. It is a game where the user has to guess a word and if the user misses a certain amount and words he loses the game.
+> Extra files *[forca.h](https://github.com/dario-gms/C-Course/blob/main/forca.h) and [palavras.txt](https://github.com/dario-gms/C-Course/blob/main/palavras.txt)*.
 
 
