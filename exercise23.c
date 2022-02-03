@@ -36,8 +36,6 @@ int main() {
   }
 
   //Resultado
-  //O exercicio pede para ler o nome, mas não pede para imprimir o nome, esse é um dos erros encontrados.
-  //No if e no else, ele dá a fórmula mas não faz a atribuição de variável.
-  //ex: peso_ideal = **resto do codigo.
+  //O exercicio pede para ler o nome, mas não pede para imprimir o nome.
   //Ultimo erro encontrado é a falta de necessidade de parentese para calcular o peso ideal, pois a multiplicação sempre será priorizado, não necessitando so de parentese.
 }
