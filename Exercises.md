@@ -115,3 +115,8 @@
  75. The files *[exercise75.c](https://github.com/dario-gms/C-Course/blob/main/exercise75.c) and [exercise75.out](https://github.com/dario-gms/C-Course/blob/main/exercise75.out)* you have to print an especific sequence of numbers.
  76. The files *[exercise76.c](https://github.com/dario-gms/C-Course/blob/main/exercise76.c) and [exercise76.out](https://github.com/dario-gms/C-Course/blob/main/exercise76.out)* you have to make a rectangle.
  
+ 
+ ## Vectors 
+ 
+ 77. The files *[exercise77.c](https://github.com/dario-gms/C-Course/blob/main/exercise77.c) and [exercise77.out](https://github.com/dario-gms/C-Course/blob/main/exercise77.out)* need to say the value of V.
+ 
