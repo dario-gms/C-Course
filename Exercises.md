@@ -1,12 +1,11 @@
 # C-Course
 
 
-## C Study
+## C programming logic exercises
 
-- About *[adivinhacao.c](https://github.com/dario-gms/C-Course/blob/main/adivinhacao.c) and [adivinhacao.out](https://github.com/dario-gms/C-Course/blob/main/adivinhacao.out)*.
-> These files are from the knowledge obtained learning the first step of C (*C I*) in Alura's course. This is a guessing game in which the user chooses a level of difficulty and depending on the choice, will have a specific amount of attempts to win or lose. The project was all done in **C** and has basic programming logic elements, with elements like *if, else, for, while* and others.
 
-- Exercises
+
+- List of exercises
 - Link with [exercises.](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf)
 
  1. files *[exercise1.c](https://github.com/dario-gms/C-Course/blob/main/exercise1.c) and [exercise1.out](https://github.com/dario-gms/C-Course/blob/main/exercise1.out)*. **This first exercise is about swap 2 variable values.**
