@@ -121,4 +121,5 @@
  77. The files *[exercise77.c](https://github.com/dario-gms/C-Course/blob/main/exercise77.c) and [exercise77.out](https://github.com/dario-gms/C-Course/blob/main/exercise77.out)* you need to say the value of V.
  78. The files *[exercise77.c](https://github.com/dario-gms/C-Course/blob/main/exercise78.c) and [exercise77.out](https://github.com/dario-gms/C-Course/blob/main/exercise78.out)* you need to read 10 names and then read an extra name and check if this extra name is between the other 10.
  79. The files *[exercise79.c](https://github.com/dario-gms/C-Course/blob/main/exercise79.c) and [exercise79.out](https://github.com/dario-gms/C-Course/blob/main/exercise79.out)* you need to read 20 notes, calculate the media of the class and say how many students have a note above the media.
+ 80. The files *[exercise80.c](https://github.com/dario-gms/C-Course/blob/main/exercise80.c) and [exercise80.out](https://github.com/dario-gms/C-Course/blob/main/exercise80.out)* you need to read 20 values of a vector Q, show the highest value and his position.
  
