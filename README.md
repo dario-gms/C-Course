@@ -9,9 +9,9 @@
 
 > Open the link to see a readme file with summary of all i've done.
 
-- [Projects](https://github.com/dario-gms/C-Course/blob/main/Projects.md)
-- [Exercises](https://github.com/dario-gms/C-Course/blob/main/Exercises.md)
-- [New Knowledges](https://github.com/dario-gms/C-Course/blob/main/Knowledge.md)
+- [Projects](https://github.com/dario-gms/C-Course/blob/main/PROJECTS.md)
+- [Exercises](https://github.com/dario-gms/C-Course/blob/main/EXERCISES.md)
+- [New Knowledges](https://github.com/dario-gms/C-Course/blob/main/KNOWLEDGE.md)
 
 
 
