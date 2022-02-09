@@ -125,4 +125,5 @@
  81. The files *[exercise81.c](https://github.com/dario-gms/C-Course/blob/main/exercise81.c) and [exercise81.out](https://github.com/dario-gms/C-Course/blob/main/exercise81.out)* you need to read 20 values of a vector Q, show the smallest value and his position.
  82. The files *[exercise82.c](https://github.com/dario-gms/C-Course/blob/main/exercise82.c) and [exercise82.out](https://github.com/dario-gms/C-Course/blob/main/exercise82.out)* you must to read 10 values and 1 extra value, multiplacate and show the result.
  83. The files *[exercise83.c](https://github.com/dario-gms/C-Course/blob/main/exercise83.c) and [exercise83.out](https://github.com/dario-gms/C-Course/blob/main/exercise83.out)* you must to read 20 numbers then print the numbers in reverse order.
+ 84. The files *[exercise84.c](https://github.com/dario-gms/C-Course/blob/main/exercise84.c) and [exercise84.out](https://github.com/dario-gms/C-Course/blob/main/exercise84.out)* you must to ask the user the total of numbers want to add and read the numbers then show the result of the sum.
  
