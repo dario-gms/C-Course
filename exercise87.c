@@ -5,16 +5,6 @@ int comparador(const void *a, const void *b) {
    return ( *(int*)a - *(int*)b );
 }
 
-int comparador2(const void *a, const void *b) {
-   if (*(int*)a > *(int*)b) {
-      return 1;
-   } else if (*(int*)a < *(int*)b) {
-      return -1;
-   } else {
-      return 0;
-   }
-}
-
 int main () {
   // Faça um algoritmo para ler 10 números e armazenar em um vetor. Após isto, o algoritmo deve ordenar os números no vetor em ordem crescente. Escrever o vetor ordenado. depois de ordenar os elementos do vetor em ordem crescente, deve ser lido mais um número qualquer e inserir esse novo número na posição correta, ou seja, mantendo a ordem crescente do vetor.
 
