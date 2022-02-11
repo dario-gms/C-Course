@@ -2,10 +2,6 @@
 #include <stdlib.h>
 
 int comparador(const void *a, const void *b) {
-   return ( *(int*)a - *(int*)b );
-}
-
-int comparador2(const void *a, const void *b) {
    if (*(int*)a > *(int*)b) {
       return 1;
    } else if (*(int*)a < *(int*)b) {
