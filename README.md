@@ -12,6 +12,7 @@
 - [Projects](https://github.com/dario-gms/C-Course/blob/main/PROJECTS.md)
 - [Exercises](https://github.com/dario-gms/C-Course/blob/main/EXERCISES.md)
 - [New Knowledges](https://github.com/dario-gms/C-Course/blob/main/KNOWLEDGE.md)
+- [Certificates](https://github.com/dario-gms/Certificados/blob/main/README.md)
 
 
 
